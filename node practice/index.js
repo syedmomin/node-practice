@@ -1,1 +1,1 @@
-console.log("sdsads");
+console.log("server is fine");
